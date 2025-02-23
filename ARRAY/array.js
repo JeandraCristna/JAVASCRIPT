@@ -9,3 +9,4 @@ console.log(aprovados[2])
 aprovados.push('Paulo', 'Jeandra') // método PUSH adiciona um elemento no array
 console.log(aprovados)
 console.log(aprovados[3])
+console.log(aprovados[4])
