@@ -20,3 +20,5 @@ console.log(frutas)
 frutas.splice(2, 1) // removendo elemento com o método SPLICE
 console.log(frutas)
 
+const outrasFrutas = frutas.slice(2) // o método SLICE retorna um novo array
+console.log(outrasFrutas)
