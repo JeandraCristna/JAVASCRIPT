@@ -10,3 +10,5 @@ console.log(frutas)
 
 frutas.shift() // o método SHIFT remove o primeiro elemento 
 console.log(frutas)
+
+frutas.unshift('limão') // o método UNSHIFT adiciona um elemento no primeiro indice(0) do array
