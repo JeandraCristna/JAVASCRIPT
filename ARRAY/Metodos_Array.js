@@ -9,3 +9,4 @@ frutas.push('manga') // o método PUSH adiciona um elemento no array
 console.log(frutas)
 
 frutas.shift() // o método SHIFT remove o primeiro elemento 
+console.log(frutas)
