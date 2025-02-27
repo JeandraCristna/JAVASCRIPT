@@ -18,3 +18,5 @@ frutas.splice(2, 0, 'maçã', 'amora') // adicionando elementos com o método SP
 console.log(frutas) 
 
 frutas.splice(2, 1) // removendo elemento com o método SPLICE
+console.log(frutas)
+
