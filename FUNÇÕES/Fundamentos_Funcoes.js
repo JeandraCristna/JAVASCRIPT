@@ -19,3 +19,6 @@ function soma2_10() {
     console.log(soma)
 }
 soma2_10()
+
+// função exemplo 3
+function mudarTexto()
