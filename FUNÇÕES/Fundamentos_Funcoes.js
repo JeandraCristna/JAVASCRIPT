@@ -21,4 +21,5 @@ function soma2_10() {
 soma2_10()
 
 // função exemplo 3
-function mudarTexto()
+function mudarTexto() {
+    let d1= document.getElementById("d1")
