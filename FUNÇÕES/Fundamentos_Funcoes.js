@@ -13,3 +13,5 @@ for(let i=0;i<5;i++) {
 
 //função exemplo 2
 function soma2_10() {
+    let n1= 2
+    let n2= 10
