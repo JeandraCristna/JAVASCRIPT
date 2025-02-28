@@ -18,3 +18,4 @@ function soma2_10() {
     let soma= n1+n2
     console.log(soma)
 }
+soma2_10()
