@@ -18,10 +18,15 @@ function soma2_10() {
     let soma= n1+n2
     console.log(soma)
 }
-soma2_10()
+//soma2_10()
 
 // função exemplo 3
 function mudarTexto() {
     let d1= document.getElementById("d1")
     let d2= document.getElementById("d2")
     let d3= document.getElementById("d3")
+    d1.innerHTML=("Jeandra")
+    d2.innerHTML=("Cristina")
+    d3.innerHTML=("Silva")
+}
+//mudarTexto()
